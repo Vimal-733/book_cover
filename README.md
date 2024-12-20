@@ -29,6 +29,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
+```
 <html>
     <head>
         <title>book cover</title>
@@ -53,7 +54,9 @@ Publish the website in the LocalHost.
         <h1 style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: white;">PANLO COELHO</h1>
     </body>
 </html>
+```
 # OUTPUT:
+
 ![Screenshot 2024-11-25 135804](https://github.com/user-attachments/assets/2a234a64-c125-496e-83b7-04bfac3e1f4a)
 
 # RESULT:
